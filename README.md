@@ -1,6 +1,6 @@
 # Beginners up course
 
-We will practise DateTime, Sessions, Cookies, Error Handling and we will use PDO to connect to MySQL server.
+We will practise DateTime and Regular Expressions.
 
 ## Date Time Tasks:
 
